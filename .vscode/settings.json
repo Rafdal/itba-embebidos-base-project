@@ -1,9 +1,6 @@
 {
     "files.associations": {
-        "menu.h": "c",
-        "user_table.h": "c",
-        "admin_menu.h": "c",
-        "xstring": "c",
-        "stdint.h": "c"
+        "gpio.h": "c",
+        "mk64f12.h": "c"
     }
 }
